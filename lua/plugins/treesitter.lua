@@ -15,6 +15,7 @@ return {
 				"regex",
 				"vim",
 				"yaml",
+        "go",
 			},
 			highlight = {
 				enable = true,
