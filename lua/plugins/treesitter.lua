@@ -11,7 +11,7 @@ return {
 				"markdown",
 				"markdown_inline",
 				"python",
-				"qmljs",
+				-- "qmljs",
 				"regex",
 				"vim",
 				"yaml",
